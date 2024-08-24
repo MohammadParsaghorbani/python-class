@@ -1,10 +1,13 @@
 ----------------
+##get personal info
 name = mohammad parsa
 lastname = ghorbani
 phonenumber = 09114244049
+##show each item name and item number
 item = barbary-item_number = 10
 item = sangak-item_number = 5
 buy_times = 2
+##show total price
 total = 30000T
 ----------------
 name = majid
