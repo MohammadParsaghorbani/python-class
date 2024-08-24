@@ -1,9 +1,11 @@
-
 ----------------
+##get personal info
 name = parsa
 last_name = ghorbani
 phone_number = 09114244049
+##show round number
 round = 1
+##show player and pc choise
 player_choice = s
 pc_choice = r
 round = 2
@@ -18,6 +20,8 @@ pc_choice = s
 round = 5
 player_choice = p
 pc_choice = p
+##show the score at the end
 player = 0
 pc = 2
+##number of round
 again_num = 5
