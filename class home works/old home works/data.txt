@@ -1,0 +1,27 @@
+----------------
+name = mohammad parsa
+lastname = ghorbani
+phonenumber = 09114244049
+item = barbary-item_number = 10
+item = sangak-item_number = 5
+buy_times = 2
+total = 30000T
+----------------
+name = majid
+lastname = ghorbani
+phonenumber = 09112241105
+item = taftoon-item_number = 15
+item = buget-item_number = 5
+buy_times = 2
+total = 72500T 
+----------------
+name = ali
+lastname = mohammady
+phonenumber = 09111234567
+item = barbary-item_number = 10
+item = lavash-item_number = 20
+item = taftoon-item_number = 15
+item = buget-item_number = 5
+item = sangak-item_number = 10
+buy_times = 5
+total = 187500T

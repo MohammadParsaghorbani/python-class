@@ -1,0 +1,15 @@
+======================
+site = 
+google
+---
+user_name = 
+Mohammad parsa
+---
+description = 
+password
+---
+length of password = 
+8
+---
+password = 
+XJW+5cbZ

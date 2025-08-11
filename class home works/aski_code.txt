@@ -1,0 +1,7 @@
+----------------
+name = �����
+lastname = ��������
+phonenumber = ewggmimmemw
+item = barbary-item_number = 10
+buy_times = 1
+total = 15000T

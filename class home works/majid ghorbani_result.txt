@@ -1,0 +1,90 @@
+**************************************
+today = 2024/9/16 - 21:35:18.728974
+name = majid
+last name = ghorbani
+***********************
+a = (1,2,3)
+print(list(a))
+1)[1,2,3]	2)(1,2,3)
+3)1,2,3 	4)error
+
+answer = 2
+correct answer = 1 
+wrong
+***********************
+we use ____ for remove item from list:
+1)remove	2)pop
+3)delete 	4)1 and 2
+
+answer = 4
+correct answer = 4 
+correct
+***********************
+Which type of Programming does Python support?
+1)object-oriented programming 	2)structured programming
+3)functional programming 	4)all of the mentioned
+
+answer = 1
+correct answer = 4 
+wrong
+***********************
+Which keyword is used for function in Python language?
+1)function 	2)def
+3)fun 		4)define
+
+answer = 1
+correct answer = 2 
+wrong
+***********************
+2**(3**2)
+(2**3)**2
+2**3**2
+1)512, 64, 512 	2)512, 512, 512
+3)64, 512, 64 	4)64, 64, 64
+
+answer = 1
+correct answer = 1 
+correct
+***********************
+which one is not str?
+1)'1'		2)str('2')
+3)ord('a') 	4)chr(90)
+
+answer = 4
+correct answer = 3 
+wrong
+***********************
+4 + 3 % 5?
+1)7 	2)2
+3)4 	4)1
+
+answer = 3
+correct answer = 1 
+wrong
+***********************
+which option is result of this code?
+a = 5
+b = 3
+print(a<b)
+1)false 	2)correct
+3)wrong 	4)True
+
+answer = 2
+correct answer = 4 
+wrong
+***********************
+How to count the letters of a variable or the number of items in a list?
+1)len 		2)extend
+3)count 	4)num
+
+answer = 4
+correct answer = 1 
+wrong
+***********************
+Which of the following is the truncation division operator in Python?
+1)| 	2)//
+3)/ 	4)%
+
+answer = 2
+correct answer = 2 
+correct
